@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  padding-top: 10px;
+  
+}
+table {
+  background-color: #f3f3f3;
+}
+td,
+th {
+  padding: 10px;
+  padding-right: 100px;
+}
+th {
+  text-align: left;
+}
+.experience {
+  /*text-align: left;*/
+}
